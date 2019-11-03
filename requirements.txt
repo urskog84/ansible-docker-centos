@@ -1,0 +1,13 @@
+psutil
+requests 
+pyVim 
+pyvmomi 
+infoblox-client 
+genie 
+tabulate
+pyats 
+sh 
+ipython
+requests-kerberos
+ansible
+paramiko
